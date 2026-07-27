@@ -1,0 +1,51 @@
+REGLAS OBLIGATORIAS DE ESCRITURA (se aplican siempre, en cada capítulo)
+
+1. Formato de diálogo: Usar siempre "Personaje: —Texto" (con dos puntos y raya). Ejemplo: Ana: —Hola, ¿cómo estás?
+2. Proporción de contenido: 90% interacciones entre personajes (diálogos y acciones). Máximo 10% de pensamientos internos (monólogo interior). Priorizar conversaciones largas y fluidas sobre descripciones extensas.
+3. Prohibición de gestos cliché: Nada de "se mordió el labio", "se alzó el pelo", "guiñó un ojo". Acciones permitidas: agarrar la cintura, miradas fijas, abrazos, llorar, reír, caminar, golpear, agarrar de la cabeza detrás de la oreja, etc.
+4. Vocabulario simple: Prohibido lenguaje rebuscado, filosófico o cringe. Debe ser entendible hasta para un niño. Diálogos naturales y realistas.
+5. Groserías limitadas: Solo "idiota", "imbécil", "tonto". En casos de mucho enojo, puede usarse algo más fuerte, con moderación.
+6. Trato de "tú": Prohibido el "vos". Todo el mundo se trata de "tú". Español neutro latino.
+7. Coherencia en recuerdos: Los flashbacks deben ser específicos y coherentes con lo ya contado. No inventar recuerdos nuevos que contradigan capítulos anteriores.
+8. Realismo extremo: Cada acción y decisión debe tener una razón lógica. Nada pasa "porque sí". Todo tiene motivación realista.
+9. No inventar personajes innecesarios: Solo usar los personajes ya mencionados en el prompt. Si aparece alguien nuevo, debe tener una razón de ser y estar atado a la trama.
+10. Variedad en capítulos: Cada capítulo tiene su propia esencia. Prohibido repetir las mismas situaciones o diálogos. Cada capítulo avanza la trama.
+11. Longitud de capítulos: Cada capítulo debe ser largo (mínimo equivalente a 5-7 páginas de libro). Diálogos extensos entre personajes.
+12. Acciones entre paréntesis: Las acciones y movimientos van entre paréntesis o en descripción aparte, claramente diferenciados del diálogo.
+13. Final que intriga (o que cierre fuerte, si es historia de un solo final): Cada capítulo termina con un gancho: una revelación, una amenaza, una decisión importante. Si la historia es de una sola temporada sin continuación, el último capítulo debe cerrar con un final fuerte, memorable, no con un gancho abierto.
+
+---
+
+PERSONAJES PRINCIPALES
+
+[Aquí describes cada personaje: nombre, edad, personalidad, relación con los demás. Entre más detalle des de cómo son, mejor van a sonar sus diálogos.]
+
+---
+
+ENTORNO Y AMBIENTACIÓN
+
+[Aquí describes el lugar donde pasa la historia: barrio, ciudad, época, qué tan peligroso o tranquilo es, qué lugares importan (parque, discoteca, casa de alguien, etc.).]
+
+---
+
+ESTRUCTURA
+
+[Aquí dices cuántos capítulos quieres (ej: 20 capítulos) y si va a tener más temporadas o es historia de un solo final.]
+
+---
+
+EVENTOS PLANEADOS (para toda la historia)
+
+[Aquí listas los eventos grandes que quieres que pasen, sin necesariamente decir en qué capítulo. Ejemplo: una traición, una pelea, un romance, una muerte, etc. Puedes dejarlo abierto con "no sé, tú decides" en las partes que quieras que te sorprendan.]
+
+---
+
+FINAL
+
+[Aquí describes qué tan definido quieres el final: si ya sabes exactamente qué pasa, o si quieres que sorprenda, o si tienes una escena específica en mente que sí o sí debe pasar.]
+
+---
+
+TONO Y ESTILO
+
+[Aquí describes qué géneros mezclar (romance, acción, drama, comedia, etc.), qué tan explícito quieres el contenido romántico/íntimo, y qué cosas NO quieres que tenga (ej: nada de gestos "cringe", nada de vocabulario de otro país, etc.).]
