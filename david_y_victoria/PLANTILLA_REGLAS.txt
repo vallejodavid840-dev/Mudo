@@ -36,7 +36,7 @@ Ciudad latinoamericana de tamaño medio, con barrios residenciales tranquilos y 
 
 ESTRUCTURA
 
-Serie de una sola historia (temporada única salvo que el usuario pida continuación), capítulos de tono variado: algunos tristes, algunos felices, sin patrón fijo. Arranca con un flashback fuerte en el hospital (presente narrativo) y luego retrocede a "el pasado" para contar cómo David y Victoria se conocieron, se enamoraron y construyeron su vida juntos, hasta regresar al hospital para resolver el gancho inicial. Cantidad exacta de capítulos: pendiente de confirmar con el usuario (ver preguntas abiertas al final de este documento).
+Serie de una sola historia (temporada única), 50 capítulos de tono variado: algunos tristes, algunos felices, sin patrón fijo. Arranca con un flashback fuerte en el hospital (presente narrativo) y luego retrocede a "el pasado" para contar cómo David y Victoria se conocieron, se enamoraron y construyeron su vida juntos (noviazgo, casa, boda, embarazo, hija, vida de familia), hasta regresar al hospital en los últimos capítulos para resolver el gancho inicial. Mapa capítulo por capítulo en outline.md.
 
 ---
 
@@ -70,7 +70,7 @@ La escena del hospital que abre la historia. Falta definir exactamente qué le p
 
 FINAL
 
-Pendiente de definir con el usuario: si quiere que la historia cierre en el propio hospital (David se salva o no), o si el hospital es solo el gancho de apertura y el final real ocurre más adelante en la línea de tiempo. Ver preguntas abiertas.
+David sobrevive. La historia cierra con él despertando del coma (cap. 49) y un salto de tiempo corto que muestra a la familia (David, Victoria y Emma) en calma (cap. 50). Final fuerte y memorable, no un gancho abierto, tal como piden las reglas.
 
 ---
 
@@ -80,9 +80,9 @@ Drama romántico realista, con capítulos de tono variado (felices, tristes, ten
 
 ---
 
-PREGUNTAS ABIERTAS (pendientes de confirmar con el usuario, no inventar sin avisar)
+DECISIONES YA CONFIRMADAS
 
-1. El mensaje original del usuario se corta a mitad de frase en el evento de las vacaciones/embarazo ("...dio el primer síntoma de nausioas mintras comia y"). Falta saber cómo sigue ese evento.
-2. Estructura total: ¿cuántos capítulos quiere el usuario en total, y si esto es temporada única o va a tener más temporadas?
-3. Qué le pasó exactamente a David para terminar en el hospital, y si el final de la serie se resuelve ahí mismo o más adelante.
-4. Nombres de los familiares secundarios (madre, padre y hermano de David; madre y hermano de Victoria; nombre del bebé) — se usaron nombres provisionales en el capítulo 1 (Carmen, Iván y Manuel para la familia de David; Marisol y Renzo para la de Victoria; Emma para el bebé) a falta de indicación del usuario. Se pueden cambiar si no le gustan.
+1. La escena de las vacaciones/embarazo (mensaje original cortado) la completa la IA: la mamá de Victoria, Marisol, nota los síntomas y habla a solas con su hija, con cariño y algo de nervios por lo jóvenes que son todavía para esta noticia. Desarrollo completo en outline.md, cap. 17-18.
+2. Estructura total confirmada: 50 capítulos, temporada única, ver outline.md para el mapa capítulo por capítulo.
+3. Qué le pasó a David: accidente de moto saliendo del trabajo, un carro se le atraviesa (cap. 45-46). El final se resuelve al final de la serie (cap. 49-50): David sobrevive y despierta.
+4. Nombres de los familiares secundarios: Carmen, Manuel e Iván (familia de David); Marisol y Renzo (familia de Victoria); Emma (hija de la pareja, nace en el cap. 25). Confirmados como provisionales hasta que el usuario indique lo contrario.
