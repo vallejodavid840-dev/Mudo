@@ -1,0 +1,88 @@
+REGLAS OBLIGATORIAS DE ESCRITURA (se aplican siempre, en cada capítulo)
+
+1. Formato de diálogo: Usar siempre "Personaje: —Texto" (con dos puntos y raya). Ejemplo: Ana: —Hola, ¿cómo estás?
+2. Proporción de contenido: 90% interacciones entre personajes (diálogos y acciones). Máximo 10% de pensamientos internos (monólogo interior). Priorizar conversaciones largas y fluidas sobre descripciones extensas.
+3. Prohibición de gestos cliché: Nada de "se mordió el labio", "se alzó el pelo", "guiñó un ojo". Acciones permitidas: agarrar la cintura, miradas fijas, abrazos, llorar, reír, caminar, golpear, agarrar de la cabeza detrás de la oreja, etc.
+4. Vocabulario simple: Prohibido lenguaje rebuscado, filosófico o cringe. Debe ser entendible hasta para un niño. Diálogos naturales y realistas.
+5. Groserías limitadas: Solo "idiota", "imbécil", "tonto". En casos de mucho enojo, puede usarse algo más fuerte, con moderación.
+6. Trato de "tú": Prohibido el "vos". Todo el mundo se trata de "tú". Español neutro latino.
+7. Coherencia en recuerdos: Los flashbacks deben ser específicos y coherentes con lo ya contado. No inventar recuerdos nuevos que contradigan capítulos anteriores.
+8. Realismo extremo: Cada acción y decisión debe tener una razón lógica. Nada pasa "porque sí". Todo tiene motivación realista.
+9. No inventar personajes innecesarios: Solo usar los personajes ya mencionados en el prompt. Si aparece alguien nuevo, debe tener una razón de ser y estar atado a la trama.
+10. Variedad en capítulos: Cada capítulo tiene su propia esencia. Prohibido repetir las mismas situaciones o diálogos. Cada capítulo avanza la trama.
+11. Longitud de capítulos: Cada capítulo debe ser largo (mínimo equivalente a 5-7 páginas de libro). Diálogos extensos entre personajes.
+12. Acciones entre paréntesis: Las acciones y movimientos van entre paréntesis o en descripción aparte, claramente diferenciados del diálogo.
+13. Final que intriga (o que cierre fuerte, si es historia de un solo final): Cada capítulo termina con un gancho: una revelación, una amenaza, una decisión importante. Si la historia es de una sola temporada sin continuación, el último capítulo debe cerrar con un final fuerte, memorable, no con un gancho abierto.
+
+---
+
+PERSONAJES PRINCIPALES
+
+- David: protagonista masculino. Carácter variado según la ocasión (a veces alegre, a veces serio, a veces frío). De joven se sentía solo, con algo de depresión que nunca expresaba en voz alta. Amó a Victoria desde el colegio sin que ella le correspondiera al inicio. Tenía pocos pretendientes (3 o 4). Trabaja luego como cajero en un municipio.
+- Victoria: protagonista femenina. Carácter también variado según la ocasión. En el pasado tenía muchos pretendientes (20 a 40 escribiéndole) y no sentía lo mismo que David sentía por ella. Se gradúa como sicóloga (estudió de forma virtual). Con el tiempo se enamora de David y termina amándolo profundamente.
+- Nayeli: amiga de David desde antes, aparece en el reencuentro grupal del parque.
+- Poleth: amiga de Victoria y también excompañera de colegio de David y Nayeli. Conecta a los cuatro en el parque y después invita a Victoria al reencuentro del colegio.
+- Familia de David: su madre, su padre y su hermano. El padre trabaja y por eso no siempre está presente en los momentos difíciles.
+- Familia de Victoria: su madre y su hermano (el hermano estudia en la universidad, aparece en un evento clave confundiendo a David con un abrazo que en realidad era de hermanos).
+- El bebé de David y Victoria: nace como fruto de su relación, aparece ya presente en el punto donde arranca la historia (presente narrativo).
+
+---
+
+ENTORNO Y AMBIENTACIÓN
+
+Ciudad latinoamericana de tamaño medio, con barrios residenciales tranquilos y una zona central ("la ciudad") a la que se llega en bus desde donde viven. Lugares que importan: la parada de bus, el supermercado, un restaurante de comida rápida, un parque cercano a sus casas (donde tienen su primer beso), un parque más alejado y solitario (con columpios), la casa/terreno que David y Victoria construyen juntos, y el hospital donde arranca la historia. Época actual, cotidiana, sin elementos violentos de barrio (a diferencia de otras series de esta carpeta): el conflicto acá es emocional y familiar, no de pandillas.
+
+---
+
+ESTRUCTURA
+
+Serie de una sola historia (temporada única salvo que el usuario pida continuación), capítulos de tono variado: algunos tristes, algunos felices, sin patrón fijo. Arranca con un flashback fuerte en el hospital (presente narrativo) y luego retrocede a "el pasado" para contar cómo David y Victoria se conocieron, se enamoraron y construyeron su vida juntos, hasta regresar al hospital para resolver el gancho inicial. Cantidad exacta de capítulos: pendiente de confirmar con el usuario (ver preguntas abiertas al final de este documento).
+
+---
+
+EVENTOS PLANEADOS (para toda la historia)
+
+Bloque A — Cómo se conocieron y enamoraron (relatado como "el pasado"):
+1. Reencuentro casual en el bus rumbo a la ciudad; un ex de Victoria se sienta detrás de David; Victoria se sienta con David para darle celos al ex; despedida incómoda, casi sin hablar entre ellos dos.
+2. Evento en el barrio de David: se reencuentran los cuatro (David, Nayeli, Victoria, Poleth) en un parque. Poleth bromea preguntando si son novios. Van a un concierto/evento porque Victoria lo arrastra de la mano. Comen comida rápida (paga David). Nayeli se despide fría. Victoria y Poleth se despiden bien, pero nadie le pide a David que se quede: se va desilusionado otra vez.
+3. Cumpleaños de Victoria: David rompe el silencio y la invita a comer. Mejor día que han tenido juntos, él le compra peluche y flores, por fin un abrazo largo — pero ella lo mete en la "zona de amigos" ("amigo, amigo, amigo"). Él lo esconde, pero en el bus de regreso ya no puede disimular. Golpe emocional fuerte para David.
+4. Coincidencia en el bus rumbo al supermercado; van juntos de compras. Ella casi se cae buscando algo en una repisa alta, él la agarra de la cintura, momento de tensión. En el bus él le dice cosas bonitas (ojos, pestañas, pelo, labios, nariz, manos) y casi se besan, pero ella lo frena: lo quiere, pero no de esa forma. Él se disculpa, ella se baja sin despedirse.
+5. Silencio largo. Ella lo invita de la nada a acompañarla a comprar algo a la ciudad. Ella llega inusualmente alegre. Un chico llega y ella lo abraza y besa (luego se revela que es su hermano). David lo interpreta mal, se queda destrozado, la espera 2-3 horas. Cuando ella regresa cambia su trato hacia ella por primera vez: frío, distante. En el bus ella le explica lo del hermano y lo regaña por cómo actuó. Él llega a su casa y llora a solas.
+6. David intenta arreglar las cosas, ella lo deja en visto. Coincidencia otra vez en el bus al supermercado: ella se sienta lejos. Al bajar él la detiene de la mano y le pide hablar; el chofer los presiona a bajarse; terminan hablando en el parque donde ella abrazó a su hermano. David por fin le dice "te amo". Ella se sorprende, sonríe, lo abraza y le dice "cursi". Se van a un parque más alejado y solitario, se acuestan a mirar el cielo, ella sube al columpio, casi se cae otra vez, él la agarra y esta vez la abraza de verdad — primer beso apasionado. Se vuelven novios desde ese día. Dos años de relación felices.
+
+Bloque B — Construyendo una vida juntos (ya de novios):
+1. Compran carrito/auto juntos.
+2. Compran un terreno para construir su casa.
+3. Se conocen las familias de ambos: los padres de David quieren mucho a Victoria, los padres de Victoria quieren mucho a David.
+4. Victoria se gradúa de la universidad (modalidad virtual) como sicóloga. David consigue trabajo de cajero en un municipio.
+5. Construyen su casita.
+
+Bloque C — El reencuentro del colegio y el embarazo:
+1. Poleth le escribe a Victoria para invitarla a un reencuentro del colegio. Victoria al inicio se niega (quiere dejar esa etapa atrás) y sabe que a David tampoco le interesa ver a sus excompañeros. Termina convenciéndolo con cariño.
+2. En el reencuentro: los excompañeros están físicamente cambiados, bromean con que David es el único que se mantuvo en forma. Andrés le sirve de más a Victoria, ella termina ebria. Joel intenta coquetearle; ella lo rechaza dejando claro que tiene novio (David). Se despiden de Liliana y Poleth. David se la lleva a casa, la acuesta.
+3. Esa noche, ya en casa, Victoria (todavía bajo el efecto del alcohol y con las emociones a flor de piel) le dice a David que quiere tener un bebé con él; tienen un momento íntimo esa noche. Al día siguiente ella amanece con resaca y David la cuida con café y cariño.
+4. Vacacionan en la casa de los padres de Victoria. La madre de Victoria nota los primeros síntomas de náuseas mientras come y sospecha que está embarazada. (Punto donde se cortó la descripción del usuario — ver preguntas abiertas.)
+
+Bloque D — El presente narrativo (con el que arranca la serie):
+La escena del hospital que abre la historia. Falta definir exactamente qué le pasó a David (accidente, problema de salud repentino, etc.) y cómo se resuelve — ver preguntas abiertas.
+
+---
+
+FINAL
+
+Pendiente de definir con el usuario: si quiere que la historia cierre en el propio hospital (David se salva o no), o si el hospital es solo el gancho de apertura y el final real ocurre más adelante en la línea de tiempo. Ver preguntas abiertas.
+
+---
+
+TONO Y ESTILO
+
+Drama romántico realista, con capítulos de tono variado (felices, tristes, tensos, tiernos) sin patrón fijo. Contenido romántico/íntimo insinuado, nunca explícito ni gráfico. Nada de vocabulario rebuscado ni de otro país. Nada de gestos cliché. Personajes con carácter que cambia según el momento de la historia (más callados, más alegres, más fríos), siempre con una razón realista detrás del cambio.
+
+---
+
+PREGUNTAS ABIERTAS (pendientes de confirmar con el usuario, no inventar sin avisar)
+
+1. El mensaje original del usuario se corta a mitad de frase en el evento de las vacaciones/embarazo ("...dio el primer síntoma de nausioas mintras comia y"). Falta saber cómo sigue ese evento.
+2. Estructura total: ¿cuántos capítulos quiere el usuario en total, y si esto es temporada única o va a tener más temporadas?
+3. Qué le pasó exactamente a David para terminar en el hospital, y si el final de la serie se resuelve ahí mismo o más adelante.
+4. Nombres de los familiares secundarios (madre, padre y hermano de David; madre y hermano de Victoria; nombre del bebé) — se usaron nombres provisionales en el capítulo 1 (Carmen, Iván y Manuel para la familia de David; Marisol y Renzo para la de Victoria; Emma para el bebé) a falta de indicación del usuario. Se pueden cambiar si no le gustan.
